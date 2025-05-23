@@ -11,9 +11,9 @@ def main():
 
     while True:
         display.limpiar_pantalla()
-        print("╔═════ ══════╗")
+        print("╔══════════════════════╗")
         print("║     JUEGO TRIQUI     ║")
-        print("╚══════ ═════╝")
+        print("╚══════════════════════╝")
         players.mostrar_jugadores()
         print("\n1. Jugar una partida")
         print("2. Ver historial de partidas")
